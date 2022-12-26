@@ -40,6 +40,19 @@ public class StringValidation {
 		// var1.concat(var2) -> used to concat strings.
 		System.out.println(a.concat(b));
 		System.out.println(a+b);
+
+		// var.charAt(index no) -> to verify which character is available in which index of the string.
+		System.out.println(a.charAt(4));
+		
+		// var.indexOf(char) -> to verify in which Index which character is available.
+		System.out.println(a.indexOf('u'));
+
+		// var.trim() -> we are using this function to eliminate starting and ending spaces of the string(first and last spaces)
+		System.out.println(d);
+		System.out.println(d.trim());
+		
+		// var.replace("Old character/String", "New Character/String") -> to replace old characters or Strings with new characters or strings in a var.
+		System.out.println(b.replace("J", "Z"));
 	}
 
 }
