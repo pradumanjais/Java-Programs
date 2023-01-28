@@ -7,6 +7,7 @@ public class StringValidation {
 		String a = "Praduman QA";
 		String b = "Java Classes";
 		String c = "Praduman qa";
+		String d = " Acp ";
 		
 		// var.length() -> is used to find the length of a string.
 		System.out.println("Length of a = "+a.length());
