@@ -1,4 +1,4 @@
-package java_program_package;
+package java_program;
 
 import java_programs.AccessSpecifiers;
 
