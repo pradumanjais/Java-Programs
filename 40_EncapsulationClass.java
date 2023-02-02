@@ -44,7 +44,7 @@ public class EncapsulationClass {
 		
 		obj.setAge(19);
 		obj.setName("John");
-//		obj.setAge(17); // throw error
+//		obj.setAge(17); // throw error.
 		String name = obj.getName();
 		int age = obj.getAge();
 		System.out.println(name +"  "+ age);
